@@ -2,7 +2,7 @@
 
 Making the apps on Streamlit's newbie training!
 
-[![Open in Streamlit](https://static.streamlit.io/badges/streamlit_badge_black_white.svg)]
+[![Open in Streamlit](https://static.streamlit.io/badges/streamlit_badge_black_white.svg)](https://uber-rides-demo.streamlit.app/)
 
 ### How to run it on your own machine
 
