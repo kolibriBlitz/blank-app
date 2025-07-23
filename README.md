@@ -15,5 +15,5 @@ Making the apps on Streamlit's newbie training!
 2. Run the app
 
    ```
-   $ streamlit run 
+   $ streamlit run uber-pickups.py
    ```
